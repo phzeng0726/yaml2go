@@ -1,0 +1,7 @@
+permission_config:
+  user:
+    create: "user.create" # comment of create user
+    update: "user.update" # comment of update user
+
+  role:
+    create: "role.create" # comment of create role

@@ -1,1 +1,2 @@
-# yaml2go
+# yamltogo
+auto-generate yaml to go struct
